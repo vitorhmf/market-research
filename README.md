@@ -2,4 +2,4 @@
 
 ### Web Scraping Project 
 
-<img src="cover_readme.png" width="1000">
+<img src="image/cover_readme.png" width="1000">
