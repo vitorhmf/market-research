@@ -1,228 +1,1086 @@
-product_id,product_name,product_category,product_price,style_id,color_id,scrapy_datetime,color_name,Fit,Composition
-1024256001,Slim Jeans,men_jeans_slim,$ 19.99,1024256,001,2022-09-20 12:15:59,Black,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256001,Slim Jeans,men_jeans_slim,$ 19.99,1024256,001,2022-09-20 12:15:59,Black,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256001,Slim Jeans,men_jeans_slim,$ 19.99,1024256,001,2022-09-20 12:15:59,Black,Slim fit,Pocket lining: Cotton 100%
-1024256006,Slim Jeans,men_jeans_slim,$ 19.99,1024256,006,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256006,Slim Jeans,men_jeans_slim,$ 19.99,1024256,006,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256006,Slim Jeans,men_jeans_slim,$ 19.99,1024256,006,2022-09-20 12:15:59,Dark denim blue,Slim fit,Pocket lining: Cotton 100%
-0993887007,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,007,2022-09-20 12:15:59,Black/No fade black,Regular fit,"Cotton 80%, Polyester 19%, Spandex 1%"
-0993887007,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,007,2022-09-20 12:15:59,Black/No fade black,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-0993887007,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,007,2022-09-20 12:15:59,Black/No fade black,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%"
-0938875007,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,007,2022-09-20 12:15:59,Black,Slim fit,"Cotton 99%, Spandex 1%"
-0938875007,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,007,2022-09-20 12:15:59,Black,Slim fit,Pocket lining: Cotton 100%
-1004199007,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Shell: Cotton 98%, Spandex 2%"
-1004199007,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1004199007,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Cotton 99%, Spandex 1%"
-1004199007,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159001,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,001,2022-09-20 12:15:59,Black,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159001,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,001,2022-09-20 12:15:59,Black,Skinny fit,Pocket lining: Cotton 100%
-0985159001,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,001,2022-09-20 12:15:59,Black,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549001,Regular Jeans,men_jeans_regular,$ 24.99,1008549,001,2022-09-20 12:15:59,Light denim blue,Regular fit,"Shell: Cotton 98%, Spandex 2%"
-1008549001,Regular Jeans,men_jeans_regular,$ 24.99,1008549,001,2022-09-20 12:15:59,Light denim blue,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549001,Regular Jeans,men_jeans_regular,$ 24.99,1008549,001,2022-09-20 12:15:59,Light denim blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-1008549001,Regular Jeans,men_jeans_regular,$ 24.99,1008549,001,2022-09-20 12:15:59,Light denim blue,Regular fit,Pocket: Cotton 100%
-1008549001,Regular Jeans,men_jeans_regular,$ 24.99,1008549,001,2022-09-20 12:15:59,Light denim blue,Regular fit,"Pocket lining: Polyester 63%, Cotton 37%"
-1024256004,Slim Jeans,men_jeans_slim,$ 19.99,1024256,004,2022-09-20 12:15:59,Denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256004,Slim Jeans,men_jeans_slim,$ 19.99,1024256,004,2022-09-20 12:15:59,Denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256004,Slim Jeans,men_jeans_slim,$ 19.99,1024256,004,2022-09-20 12:15:59,Denim blue,Slim fit,Pocket lining: Cotton 100%
-1024256003,Slim Jeans,men_jeans_slim,$ 19.99,1024256,003,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256003,Slim Jeans,men_jeans_slim,$ 19.99,1024256,003,2022-09-20 12:15:59,Light denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256003,Slim Jeans,men_jeans_slim,$ 19.99,1024256,003,2022-09-20 12:15:59,Light denim blue,Slim fit,Pocket lining: Cotton 100%
-0985159005,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,005,2022-09-20 12:15:59,Dark blue,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159005,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,005,2022-09-20 12:15:59,Dark blue,Skinny fit,Pocket lining: Cotton 100%
-0985159005,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,005,2022-09-20 12:15:59,Dark blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256002,Slim Jeans,men_jeans_slim,$ 19.99,1024256,002,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256002,Slim Jeans,men_jeans_slim,$ 19.99,1024256,002,2022-09-20 12:15:59,Light denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256002,Slim Jeans,men_jeans_slim,$ 19.99,1024256,002,2022-09-20 12:15:59,Light denim blue,Slim fit,Pocket lining: Cotton 100%
-1008549006,Regular Jeans,men_jeans_regular,$ 24.99,1008549,006,2022-09-20 12:15:59,Black,Regular fit,"Shell: Cotton 98%, Spandex 2%"
-1008549006,Regular Jeans,men_jeans_regular,$ 24.99,1008549,006,2022-09-20 12:15:59,Black,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549006,Regular Jeans,men_jeans_regular,$ 24.99,1008549,006,2022-09-20 12:15:59,Black,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-1008549006,Regular Jeans,men_jeans_regular,$ 24.99,1008549,006,2022-09-20 12:15:59,Black,Regular fit,Pocket: Cotton 100%
-1008549006,Regular Jeans,men_jeans_regular,$ 24.99,1008549,006,2022-09-20 12:15:59,Black,Regular fit,"Pocket lining: Polyester 63%, Cotton 37%"
-0690449022,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,022,2022-09-20 12:15:59,Black/trashed,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449022,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,022,2022-09-20 12:15:59,Black/trashed,Skinny fit,Lining: Polyester 100%
-0690449022,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,022,2022-09-20 12:15:59,Black/trashed,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549002,Regular Jeans,men_jeans_regular,$ 24.99,1008549,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Shell: Cotton 98%, Spandex 2%"
-1008549002,Regular Jeans,men_jeans_regular,$ 24.99,1008549,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549002,Regular Jeans,men_jeans_regular,$ 24.99,1008549,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-1008549002,Regular Jeans,men_jeans_regular,$ 24.99,1008549,002,2022-09-20 12:15:59,Denim blue,Regular fit,Pocket: Cotton 100%
-1008549002,Regular Jeans,men_jeans_regular,$ 24.99,1008549,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Pocket lining: Polyester 63%, Cotton 37%"
-1008549004,Regular Jeans,men_jeans_regular,$ 24.99,1008549,004,2022-09-20 12:15:59,Dark blue,Regular fit,"Shell: Cotton 98%, Spandex 2%"
-1008549004,Regular Jeans,men_jeans_regular,$ 24.99,1008549,004,2022-09-20 12:15:59,Dark blue,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549004,Regular Jeans,men_jeans_regular,$ 24.99,1008549,004,2022-09-20 12:15:59,Dark blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-1008549004,Regular Jeans,men_jeans_regular,$ 24.99,1008549,004,2022-09-20 12:15:59,Dark blue,Regular fit,Pocket: Cotton 100%
-1008549004,Regular Jeans,men_jeans_regular,$ 24.99,1008549,004,2022-09-20 12:15:59,Dark blue,Regular fit,"Pocket lining: Polyester 63%, Cotton 37%"
-0690449051,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,051,2022-09-20 12:15:59,Gray,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449051,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,051,2022-09-20 12:15:59,Gray,Skinny fit,Lining: Polyester 100%
-0690449051,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,051,2022-09-20 12:15:59,Gray,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0979945002,Loose Jeans,men_jeans_loose,$ 39.99,0979945,002,2022-09-20 12:15:59,Denim blue,Loose fit,Shell: Cotton 100%
-0979945002,Loose Jeans,men_jeans_loose,$ 39.99,0979945,002,2022-09-20 12:15:59,Denim blue,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0985159008,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,008,2022-09-20 12:15:59,Dark gray,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159008,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,008,2022-09-20 12:15:59,Dark gray,Skinny fit,Pocket lining: Cotton 100%
-0985159008,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,008,2022-09-20 12:15:59,Dark gray,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008110002,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,002,2022-09-20 12:15:59,Black/No fade black,Slim fit,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%"
-1008110002,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,002,2022-09-20 12:15:59,Black/No fade black,Slim fit,Pocket lining: Cotton 100%
-1008110002,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,002,2022-09-20 12:15:59,Black/No fade black,Slim fit,"Pocket lining: Polyester 80%, Cotton 20%"
-1008110002,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,002,2022-09-20 12:15:59,Black/No fade black,Slim fit,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%"
-1024256005,Slim Jeans,men_jeans_slim,$ 19.99,1024256,005,2022-09-20 12:15:59,Dark blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256005,Slim Jeans,men_jeans_slim,$ 19.99,1024256,005,2022-09-20 12:15:59,Dark blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256005,Slim Jeans,men_jeans_slim,$ 19.99,1024256,005,2022-09-20 12:15:59,Dark blue,Slim fit,Pocket lining: Cotton 100%
-0979945001,Loose Jeans,men_jeans_loose,$ 39.99,0979945,001,2022-09-20 12:15:59,Light denim blue,Loose fit,Shell: Cotton 100%
-0979945001,Loose Jeans,men_jeans_loose,$ 39.99,0979945,001,2022-09-20 12:15:59,Light denim blue,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0979945003,Loose Jeans,men_jeans_loose,$ 39.99,0979945,003,2022-09-20 12:15:59,Black,Loose fit,Shell: Cotton 100%
-0979945003,Loose Jeans,men_jeans_loose,$ 39.99,0979945,003,2022-09-20 12:15:59,Black,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1013317006,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,006,2022-09-20 12:15:59,Black,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%"
-1013317006,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,006,2022-09-20 12:15:59,Black,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-1013317006,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,006,2022-09-20 12:15:59,Black,Regular fit,"Cotton 79%, Polyester 19%, Spandex 2%"
-0971061004,Slim Tapered Cropped Jeans,men_jeans_slim,$ 29.99,0971061,004,2022-09-20 12:15:59,Light denim blue,Slim fit,"Cotton 99%, Spandex 1%"
-0690449036,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,036,2022-09-20 12:15:59,Black,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449036,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,036,2022-09-20 12:15:59,Black,Skinny fit,Lining: Polyester 100%
-0690449036,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,036,2022-09-20 12:15:59,Black,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1071707001,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,001,2022-09-20 12:15:59,Black,Relaxed fit,Shell: Cotton 100%
-1071707001,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,001,2022-09-20 12:15:59,Black,Relaxed fit,Pocket lining: Cotton 100%
-1071707001,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,001,2022-09-20 12:15:59,Black,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105018,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,018,2022-09-20 12:15:59,Pale denim blue,Relaxed fit,Shell: Cotton 100%
-0875105018,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,018,2022-09-20 12:15:59,Pale denim blue,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105018,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,018,2022-09-20 12:15:59,Pale denim blue,Relaxed fit,Cotton 100%
-1024256007,Slim Jeans,men_jeans_slim,$ 19.99,1024256,007,2022-09-20 12:15:59,Dark gray,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256007,Slim Jeans,men_jeans_slim,$ 19.99,1024256,007,2022-09-20 12:15:59,Dark gray,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256007,Slim Jeans,men_jeans_slim,$ 19.99,1024256,007,2022-09-20 12:15:59,Dark gray,Slim fit,Pocket lining: Cotton 100%
-1008110001,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,001,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%"
-1008110001,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,001,2022-09-20 12:15:59,Dark denim blue,Slim fit,Pocket lining: Cotton 100%
-1008110001,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,001,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Pocket lining: Polyester 80%, Cotton 20%"
-1008110001,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,001,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%"
-0985159007,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159007,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,007,2022-09-20 12:15:59,Denim blue,Skinny fit,Pocket lining: Cotton 100%
-0985159007,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,007,2022-09-20 12:15:59,Denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1004199002,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,002,2022-09-20 12:15:59,Black,Skinny fit,"Shell: Cotton 98%, Spandex 2%"
-1004199002,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,002,2022-09-20 12:15:59,Black,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1004199002,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,002,2022-09-20 12:15:59,Black,Skinny fit,"Cotton 99%, Spandex 1%"
-1004199002,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,002,2022-09-20 12:15:59,Black,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-1013317012,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,012,2022-09-20 12:15:59,Light denim blue,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%"
-1013317012,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,012,2022-09-20 12:15:59,Light denim blue,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-1013317012,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,012,2022-09-20 12:15:59,Light denim blue,Regular fit,"Cotton 79%, Polyester 19%, Spandex 2%"
-1071707002,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,002,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Shell: Cotton 100%
-1071707002,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,002,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Pocket lining: Cotton 100%
-1071707002,Relaxed Jeans,men_jeans_relaxed,$ 29.99,1071707,002,2022-09-20 12:15:59,Light denim blue,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0971061006,Slim Tapered Cropped Jeans,men_jeans_slim,$ 29.99,0971061,006,2022-09-20 12:15:59,Denim blue,Slim fit,"Cotton 99%, Spandex 1%"
-0875105029,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,029,2022-09-20 12:15:59,Black,Relaxed fit,Shell: Cotton 100%
-0875105029,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,029,2022-09-20 12:15:59,Black,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105029,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,029,2022-09-20 12:15:59,Black,Relaxed fit,Cotton 100%
-1004199001,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,001,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Shell: Cotton 98%, Spandex 2%"
-1004199001,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,001,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1004199001,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,001,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Cotton 99%, Spandex 1%"
-1004199001,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,001,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0690449059,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,059,2022-09-20 12:15:59,Denim blue,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449059,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,059,2022-09-20 12:15:59,Denim blue,Skinny fit,Lining: Polyester 100%
-0690449059,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,059,2022-09-20 12:15:59,Denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024711006,Slim Jeans,men_jeans_slim,$ 34.99,1024711,006,2022-09-20 12:15:59,Dark denim blue,Slim fit,"Shell: Cotton 98%, Spandex 2%"
-1024711006,Slim Jeans,men_jeans_slim,$ 34.99,1024711,006,2022-09-20 12:15:59,Dark denim blue,Slim fit,Pocket lining: Cotton 100%
-0993887008,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,008,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 80%, Polyester 19%, Spandex 1%"
-0993887008,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,008,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-0993887008,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,008,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%"
-0971061002,Slim Tapered Cropped Jeans,men_jeans_slim,$ 29.99,0971061,002,2022-09-20 12:15:59,Light denim blue,Slim fit,"Cotton 99%, Spandex 1%"
-0690449056,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,056,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449056,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,056,2022-09-20 12:15:59,Light denim blue,Skinny fit,Lining: Polyester 100%
-0690449056,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,056,2022-09-20 12:15:59,Light denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0993887001,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,001,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 80%, Polyester 19%, Spandex 1%"
-0993887001,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,001,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-0993887001,Hybrid Regular Denim Joggers,men_jeans_joggers,$ 39.99,0993887,001,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%"
-1013317002,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%"
-1013317002,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-1013317002,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,002,2022-09-20 12:15:59,Denim blue,Regular fit,"Cotton 79%, Polyester 19%, Spandex 2%"
-1027852007,Relaxed Denim Joggers,men_jeans_joggers,$ 29.99,1027852,007,2022-09-20 12:15:59,Denim blue,Relaxed fit,Shell: Cotton 100%
-1027852007,Relaxed Denim Joggers,men_jeans_joggers,$ 29.99,1027852,007,2022-09-20 12:15:59,Denim blue,Relaxed fit,Pocket lining: Cotton 100%
-1008549003,Regular Jeans,men_jeans_regular,$ 24.99,1008549,003,2022-09-20 12:15:59,Dark gray,Regular fit,"Shell: Cotton 98%, Spandex 2%"
-1008549003,Regular Jeans,men_jeans_regular,$ 24.99,1008549,003,2022-09-20 12:15:59,Dark gray,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008549003,Regular Jeans,men_jeans_regular,$ 24.99,1008549,003,2022-09-20 12:15:59,Dark gray,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-1008549003,Regular Jeans,men_jeans_regular,$ 24.99,1008549,003,2022-09-20 12:15:59,Dark gray,Regular fit,Pocket: Cotton 100%
-1008549003,Regular Jeans,men_jeans_regular,$ 24.99,1008549,003,2022-09-20 12:15:59,Dark gray,Regular fit,"Pocket lining: Polyester 63%, Cotton 37%"
-0690449043,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,043,2022-09-20 12:15:59,Light denim blue/trashed,Skinny fit,"Cotton 98%, Spandex 2%"
-0690449043,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,043,2022-09-20 12:15:59,Light denim blue/trashed,Skinny fit,Lining: Polyester 100%
-0690449043,Skinny Jeans,men_jeans_ripped,$ 39.99,0690449,043,2022-09-20 12:15:59,Light denim blue/trashed,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024711001,Slim Jeans,men_jeans_slim,$ 34.99,1024711,001,2022-09-20 12:15:59,Black,Slim fit,"Shell: Cotton 98%, Spandex 2%"
-1024711001,Slim Jeans,men_jeans_slim,$ 34.99,1024711,001,2022-09-20 12:15:59,Black,Slim fit,Pocket lining: Cotton 100%
-1004199004,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,004,2022-09-20 12:15:59,White,Skinny fit,"Shell: Cotton 98%, Spandex 2%"
-1004199004,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,004,2022-09-20 12:15:59,White,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1004199004,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,004,2022-09-20 12:15:59,White,Skinny fit,"Cotton 99%, Spandex 1%"
-1004199004,Skinny Cropped Jeans,men_jeans_skinny,$ 29.99,1004199,004,2022-09-20 12:15:59,White,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-1051644001,Loose Jeans,men_jeans_loose,$ 44.99,1051644,001,2022-09-20 12:15:59,Denim blue,Loose fit,"Shell: Lyocell 55%, Cotton 30%, Rayon 15%"
-1051644001,Loose Jeans,men_jeans_loose,$ 44.99,1051644,001,2022-09-20 12:15:59,Denim blue,Loose fit,Pocket lining: Cotton 100%
-0875105024,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,024,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Shell: Cotton 100%
-0875105024,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,024,2022-09-20 12:15:59,Light denim blue,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105024,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,024,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Cotton 100%
-1074475003,Loose Jeans,men_jeans_loose,$ 44.99,1074475,003,2022-09-20 12:15:59,Black,Loose fit,Shell: Cotton 100%
-1074475003,Loose Jeans,men_jeans_loose,$ 44.99,1074475,003,2022-09-20 12:15:59,Black,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1008110006,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,006,2022-09-20 12:15:59,Denim blue,Slim fit,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%"
-1008110006,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,006,2022-09-20 12:15:59,Denim blue,Slim fit,Pocket lining: Cotton 100%
-1008110006,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,006,2022-09-20 12:15:59,Denim blue,Slim fit,"Pocket lining: Polyester 80%, Cotton 20%"
-1008110006,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,006,2022-09-20 12:15:59,Denim blue,Slim fit,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%"
-0971061005,Slim Tapered Cropped Jeans,men_jeans_slim,$ 29.99,0971061,005,2022-09-20 12:15:59,Dark denim gray,Slim fit,"Cotton 99%, Spandex 1%"
-0811993040,Regular Jeans,men_jeans_regular,$ 29.99,0811993,040,2022-09-20 12:15:59,Black,Regular fit,"Cotton 98%, Spandex 2%"
-0811993040,Regular Jeans,men_jeans_regular,$ 29.99,0811993,040,2022-09-20 12:15:59,Black,Regular fit,"Cotton 99%, Spandex 1%"
-0811993040,Regular Jeans,men_jeans_regular,$ 29.99,0811993,040,2022-09-20 12:15:59,Black,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-0811993040,Regular Jeans,men_jeans_regular,$ 29.99,0811993,040,2022-09-20 12:15:59,Black,Regular fit,Pocket lining: Cotton 100%
-1044249002,Loose Pull-On Jeans,men_jeans_loose,$ 44.99,1044249,002,2022-09-20 12:15:59,Dark denim blue,Loose fit,"Shell: Rayon 50%, Lyocell 50%"
-1044249002,Loose Pull-On Jeans,men_jeans_loose,$ 44.99,1044249,002,2022-09-20 12:15:59,Dark denim blue,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0811993036,Regular Jeans,men_jeans_regular,$ 29.99,0811993,036,2022-09-20 12:15:59,Blue,Regular fit,"Cotton 98%, Spandex 2%"
-0811993036,Regular Jeans,men_jeans_regular,$ 29.99,0811993,036,2022-09-20 12:15:59,Blue,Regular fit,"Cotton 99%, Spandex 1%"
-0811993036,Regular Jeans,men_jeans_regular,$ 29.99,0811993,036,2022-09-20 12:15:59,Blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-0811993036,Regular Jeans,men_jeans_regular,$ 29.99,0811993,036,2022-09-20 12:15:59,Blue,Regular fit,Pocket lining: Cotton 100%
-0811993034,Regular Jeans,men_jeans_regular,$ 29.99,0811993,034,2022-09-20 12:15:59,Pale denim blue,Regular fit,"Cotton 98%, Spandex 2%"
-0811993034,Regular Jeans,men_jeans_regular,$ 29.99,0811993,034,2022-09-20 12:15:59,Pale denim blue,Regular fit,"Cotton 99%, Spandex 1%"
-0811993034,Regular Jeans,men_jeans_regular,$ 29.99,0811993,034,2022-09-20 12:15:59,Pale denim blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-0811993034,Regular Jeans,men_jeans_regular,$ 29.99,0811993,034,2022-09-20 12:15:59,Pale denim blue,Regular fit,Pocket lining: Cotton 100%
-0927964001,Regular Tapered Crop Jeans,men_jeans_regular,$ 19.99,0927964,001,2022-09-20 12:15:59,Denim blue,Regular fit,Shell: Cotton 100%
-0927964001,Regular Tapered Crop Jeans,men_jeans_regular,$ 19.99,0927964,001,2022-09-20 12:15:59,Denim blue,Regular fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105023,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,023,2022-09-20 12:15:59,Black,Relaxed fit,Shell: Cotton 100%
-0875105023,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,023,2022-09-20 12:15:59,Black,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105023,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,023,2022-09-20 12:15:59,Black,Relaxed fit,Cotton 100%
-1008110003,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,003,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%"
-1008110003,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,003,2022-09-20 12:15:59,Light denim blue,Slim fit,Pocket lining: Cotton 100%
-1008110003,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,003,2022-09-20 12:15:59,Light denim blue,Slim fit,"Pocket lining: Polyester 80%, Cotton 20%"
-1008110003,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,003,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%"
-1074475002,Loose Jeans,men_jeans_loose,$ 44.99,1074475,002,2022-09-20 12:15:59,Denim blue,Loose fit,Shell: Cotton 100%
-1074475002,Loose Jeans,men_jeans_loose,$ 44.99,1074475,002,2022-09-20 12:15:59,Denim blue,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0985159006,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,006,2022-09-20 12:15:59,Dark denim blue,Skinny fit,"Shell: Cotton 99%, Spandex 1%"
-0985159006,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,006,2022-09-20 12:15:59,Dark denim blue,Skinny fit,Pocket lining: Cotton 100%
-0985159006,Skinny Jeans,men_jeans_skinny,$ 24.99,0985159,006,2022-09-20 12:15:59,Dark denim blue,Skinny fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1013317005,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,005,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%"
-1013317005,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,005,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%"
-1013317005,Hybrid Regular Tapered Joggers,men_jeans_joggers,$ 39.99,1013317,005,2022-09-20 12:15:59,Dark gray,Regular fit,"Cotton 79%, Polyester 19%, Spandex 2%"
-0811993044,Regular Jeans,men_jeans_regular,$ 29.99,0811993,044,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Cotton 98%, Spandex 2%"
-0811993044,Regular Jeans,men_jeans_regular,$ 29.99,0811993,044,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Cotton 99%, Spandex 1%"
-0811993044,Regular Jeans,men_jeans_regular,$ 29.99,0811993,044,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-0811993044,Regular Jeans,men_jeans_regular,$ 29.99,0811993,044,2022-09-20 12:15:59,Dark denim blue,Regular fit,Pocket lining: Cotton 100%
-1018704003,Relaxed Pull-on Jeans,men_jeans_relaxed,$ 24.99,1018704,003,2022-09-20 12:15:59,Black,Relaxed fit,Shell: Cotton 100%
-1018704003,Relaxed Pull-on Jeans,men_jeans_relaxed,$ 24.99,1018704,003,2022-09-20 12:15:59,Black,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0811993039,Regular Jeans,men_jeans_regular,$ 29.99,0811993,039,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Cotton 98%, Spandex 2%"
-0811993039,Regular Jeans,men_jeans_regular,$ 29.99,0811993,039,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Cotton 99%, Spandex 1%"
-0811993039,Regular Jeans,men_jeans_regular,$ 29.99,0811993,039,2022-09-20 12:15:59,Dark denim blue,Regular fit,"Shell: Cotton 99%, Spandex 1%"
-0811993039,Regular Jeans,men_jeans_regular,$ 29.99,0811993,039,2022-09-20 12:15:59,Dark denim blue,Regular fit,Pocket lining: Cotton 100%
-1027852009,Relaxed Denim Joggers,men_jeans_joggers,$ 29.99,1027852,009,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Shell: Cotton 100%
-1027852009,Relaxed Denim Joggers,men_jeans_joggers,$ 29.99,1027852,009,2022-09-20 12:15:59,Light denim blue,Relaxed fit,Pocket lining: Cotton 100%
-1044249001,Loose Pull-On Jeans,men_jeans_loose,$ 44.99,1044249,001,2022-09-20 12:15:59,Light denim blue,Loose fit,"Shell: Rayon 50%, Lyocell 50%"
-1044249001,Loose Pull-On Jeans,men_jeans_loose,$ 44.99,1044249,001,2022-09-20 12:15:59,Light denim blue,Loose fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0938875002,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,002,2022-09-20 12:15:59,White,Slim fit,"Cotton 99%, Spandex 1%"
-0938875002,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,002,2022-09-20 12:15:59,White,Slim fit,Pocket lining: Cotton 100%
-0875105016,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,016,2022-09-20 12:15:59,Denim blue,Relaxed fit,Shell: Cotton 100%
-0875105016,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,016,2022-09-20 12:15:59,Denim blue,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105016,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,016,2022-09-20 12:15:59,Denim blue,Relaxed fit,Cotton 100%
-1024256008,Slim Jeans,men_jeans_slim,$ 19.99,1024256,008,2022-09-20 12:15:59,White,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-1024256008,Slim Jeans,men_jeans_slim,$ 19.99,1024256,008,2022-09-20 12:15:59,White,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-1024256008,Slim Jeans,men_jeans_slim,$ 19.99,1024256,008,2022-09-20 12:15:59,White,Slim fit,Pocket lining: Cotton 100%
-1008110005,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,005,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%"
-1008110005,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,005,2022-09-20 12:15:59,Light denim blue,Slim fit,Pocket lining: Cotton 100%
-1008110005,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,005,2022-09-20 12:15:59,Light denim blue,Slim fit,"Pocket lining: Polyester 80%, Cotton 20%"
-1008110005,Freefit® Slim Jeans,men_jeans_slim,$ 49.99,1008110,005,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%"
-1025726003,Relaxed Jeans,men_jeans_relaxed,$ 39.99,1025726,003,2022-09-20 12:15:59,Graphite gray,Relaxed fit,Shell: Cotton 100%
-1025726003,Relaxed Jeans,men_jeans_relaxed,$ 39.99,1025726,003,2022-09-20 12:15:59,Graphite gray,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0985197006,Slim Jeans,men_jeans_slim,$ 19.99,0985197,006,2022-09-20 12:15:59,Light denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-0985197006,Slim Jeans,men_jeans_slim,$ 19.99,0985197,006,2022-09-20 12:15:59,Light denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0938875012,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,012,2022-09-20 12:15:59,Denim blue,Slim fit,"Cotton 99%, Spandex 1%"
-0938875012,Slim Tapered Jeans,men_jeans_slim,$ 39.99,0938875,012,2022-09-20 12:15:59,Denim blue,Slim fit,Pocket lining: Cotton 100%
-0985197003,Slim Jeans,men_jeans_slim,$ 19.99,0985197,003,2022-09-20 12:15:59,Denim blue,Slim fit,"Shell: Cotton 99%, Spandex 1%"
-0985197003,Slim Jeans,men_jeans_slim,$ 19.99,0985197,003,2022-09-20 12:15:59,Denim blue,Slim fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105026,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,026,2022-09-20 12:15:59,Light gray,Relaxed fit,Shell: Cotton 100%
-0875105026,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,026,2022-09-20 12:15:59,Light gray,Relaxed fit,"Pocket lining: Polyester 65%, Cotton 35%"
-0875105026,Relaxed Jeans,men_jeans_relaxed,$ 44.99,0875105,026,2022-09-20 12:15:59,Light gray,Relaxed fit,Cotton 100%
+product_id,Fit,Composition,product_name,product_price,color_name,style_id,color_id,scrapy_datetime
+0985159001,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Black,0985159,001,2022-09-29 18:07:25
+0985159002,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Denim blue,0985159,002,2022-09-29 18:07:25
+0985159003,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",11.99,Dark gray,0985159,003,2022-09-29 18:07:25
+0985159004,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",12.99,Light denim blue,0985159,004,2022-09-29 18:07:25
+0985159005,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Dark blue,0985159,005,2022-09-29 18:07:25
+0985159006,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Dark denim blue,0985159,006,2022-09-29 18:07:25
+0985159007,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Denim blue,0985159,007,2022-09-29 18:07:25
+0985159008,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",24.99,Dark gray,0985159,008,2022-09-29 18:07:25
+1024256001,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Black,1024256,001,2022-09-29 18:07:25
+1024256002,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Light denim blue,1024256,002,2022-09-29 18:07:25
+1024256003,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Light denim blue,1024256,003,2022-09-29 18:07:25
+1024256004,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Denim blue,1024256,004,2022-09-29 18:07:25
+1024256005,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Dark blue,1024256,005,2022-09-29 18:07:25
+1024256006,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Dark denim blue,1024256,006,2022-09-29 18:07:25
+1024256007,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Dark gray,1024256,007,2022-09-29 18:07:25
+1024256008,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,White,1024256,008,2022-09-29 18:07:25
+1008549001,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",24.99,Light denim blue,1008549,001,2022-09-29 18:07:25
+1008549002,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",24.99,Denim blue,1008549,002,2022-09-29 18:07:25
+1008549003,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",24.99,Dark gray,1008549,003,2022-09-29 18:07:25
+1008549005,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",24.99,Dark denim blue,1008549,005,2022-09-29 18:07:25
+1008549006,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",24.99,Black,1008549,006,2022-09-29 18:07:25
+1008549007,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",11.99,Light gray,1008549,007,2022-09-29 18:07:25
+1008549008,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",10.99,Light denim blue,1008549,008,2022-09-29 18:07:25
+0690449001,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",13.99,Light denim blue/trashed,0690449,001,2022-09-29 18:07:25
+0690449002,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",14.99,Denim blue,0690449,002,2022-09-29 18:07:25
+0690449006,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",7.99,Black/washed,0690449,006,2022-09-29 18:07:25
+0690449007,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",14.99,Light denim blue,0690449,007,2022-09-29 18:07:25
+0690449009,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",17.99,Black washed out,0690449,009,2022-09-29 18:07:25
+0690449011,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Jeans
+
+
+
+",17.99,White,0690449,011,2022-09-29 18:07:25
+0690449013,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",27.99,Black/washed,0690449,013,2022-09-29 18:07:25
+0690449021,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",25.99,Dark denim blue/trashed,0690449,021,2022-09-29 18:07:25
+0690449022,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Black/trashed,0690449,022,2022-09-29 18:07:25
+0690449024,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",20.99,Dark blue/Trashed,0690449,024,2022-09-29 18:07:25
+0690449028,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",19.99,Dark blue/washed out,0690449,028,2022-09-29 18:07:25
+0690449035,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",21.99,Denim blue/trashed,0690449,035,2022-09-29 18:07:25
+0690449036,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Black,0690449,036,2022-09-29 18:07:25
+0690449040,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",29.99,Denim gray,0690449,040,2022-09-29 18:07:25
+0690449046,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Light denim gray/Trashed,0690449,046,2022-09-29 18:07:25
+0690449051,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Gray,0690449,051,2022-09-29 18:07:25
+0690449056,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Light denim blue,0690449,056,2022-09-29 18:07:25
+0690449059,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Jeans
+
+
+
+",39.99,Denim blue,0690449,059,2022-09-29 18:07:25
+0979945001,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Light denim blue,0979945,001,2022-09-29 18:07:25
+0979945002,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Denim blue,0979945,002,2022-09-29 18:07:25
+0979945003,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Black,0979945,003,2022-09-29 18:07:25
+0979945009,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Light gray,0979945,009,2022-09-29 18:07:25
+0979945012,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Gray,0979945,012,2022-09-29 18:07:25
+0979945019,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Black,0979945,019,2022-09-29 18:07:25
+1008110001,Slim fit,"Cotton 90%, Elastomultiester 8%, Spandex 2%","
+
+Freefit® Slim Jeans
+
+
+
+",49.99,Dark denim blue,1008110,001,2022-09-29 18:07:25
+1008110002,Slim fit,"Cotton 90%, Elastomultiester 8%, Spandex 2%","
+
+Freefit® Slim Jeans
+
+
+
+",49.99,Black/No fade black,1008110,002,2022-09-29 18:07:25
+1008110003,Slim fit,"Cotton 89%, Elastomultiester 9%, Spandex 2%","
+
+Freefit® Slim Jeans
+
+
+
+",49.99,Light denim blue,1008110,003,2022-09-29 18:07:25
+1008110005,Slim fit,"Cotton 89%, Elastomultiester 9%, Spandex 2%","
+
+Freefit® Slim Jeans
+
+
+
+",49.99,Light denim blue,1008110,005,2022-09-29 18:07:25
+1008110006,Slim fit,"Cotton 89%, Elastomultiester 9%, Spandex 2%","
+
+Freefit® Slim Jeans
+
+
+
+",49.99,Denim blue,1008110,006,2022-09-29 18:07:25
+1024711001,Slim fit,"Cotton 98%, Spandex 2%","
+
+Slim Jeans
+
+
+
+",29.99,Black,1024711,001,2022-09-29 18:07:25
+1024711002,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",29.99,Light denim blue,1024711,002,2022-09-29 18:07:25
+1024711004,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",8.99,Light denim blue,1024711,004,2022-09-29 18:07:25
+1024711006,Slim fit,"Cotton 98%, Spandex 2%","
+
+Slim Jeans
+
+
+
+",29.99,Dark denim blue,1024711,006,2022-09-29 18:07:25
+1071707001,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",29.99,Black,1071707,001,2022-09-29 18:07:25
+1071707002,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",29.99,Light denim blue,1071707,002,2022-09-29 18:07:25
+1071707003,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",29.99,Dark denim blue,1071707,003,2022-09-29 18:07:25
+1071707008,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",29.99,Denim blue,1071707,008,2022-09-29 18:07:25
+1071707010,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",29.99,Denim gray,1071707,010,2022-09-29 18:07:25
+0993887001,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%","
+
+Hybrid Regular Denim Joggers
+
+
+
+",39.99,Denim blue,0993887,001,2022-09-29 18:07:25
+0993887002,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%","
+
+Hybrid Regular Denim Joggers
+
+
+
+",29.99,Denim blue,0993887,002,2022-09-29 18:07:25
+0993887004,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%","
+
+Hybrid Regular Denim Joggers
+
+
+
+",22.99,Black,0993887,004,2022-09-29 18:07:25
+0993887007,Regular fit,"Cotton 80%, Polyester 19%, Spandex 1%","
+
+Hybrid Regular Denim Joggers
+
+
+
+",39.99,Black/No fade black,0993887,007,2022-09-29 18:07:25
+0993887008,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%","
+
+Hybrid Regular Denim Joggers
+
+
+
+",39.99,Dark gray,0993887,008,2022-09-29 18:07:25
+1013317001,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Light denim blue,1013317,001,2022-09-29 18:07:25
+1013317002,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Denim blue,1013317,002,2022-09-29 18:07:25
+1013317003,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Dark denim blue,1013317,003,2022-09-29 18:07:25
+1013317004,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",20.99,Black,1013317,004,2022-09-29 18:07:25
+1013317005,Regular fit,"Cotton 79%, Polyester 19%, Spandex 2%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Dark gray,1013317,005,2022-09-29 18:07:25
+1013317006,Regular fit,"Cotton 79%, Polyester 20%, Spandex 1%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Black,1013317,006,2022-09-29 18:07:25
+1013317008,Regular fit,"Cotton 77%, Polyester 21%, Spandex 2%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",15.99,Dark blue,1013317,008,2022-09-29 18:07:25
+1013317010,Regular fit,"Cotton 80%, Polyester 19%, Spandex 1%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",22.99,Black,1013317,010,2022-09-29 18:07:25
+1013317012,Regular fit,"Cotton 78%, Polyester 21%, Spandex 1%","
+
+Hybrid Regular Tapered Joggers
+
+
+
+",39.99,Light denim blue,1013317,012,2022-09-29 18:07:25
+0971061001,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Cropped Jeans
+
+
+
+",29.99,Pale denim blue,0971061,001,2022-09-29 18:07:25
+0971061002,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Cropped Jeans
+
+
+
+",29.99,Light denim blue,0971061,002,2022-09-29 18:07:25
+0971061004,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Cropped Jeans
+
+
+
+",29.99,Light denim blue,0971061,004,2022-09-29 18:07:25
+0971061005,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Cropped Jeans
+
+
+
+",29.99,Dark denim gray,0971061,005,2022-09-29 18:07:25
+0971061006,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Cropped Jeans
+
+
+
+",29.99,Denim blue,0971061,006,2022-09-29 18:07:25
+0938875001,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",29.99,Light denim blue,0938875,001,2022-09-29 18:07:25
+0938875002,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",39.99,White,0938875,002,2022-09-29 18:07:25
+0938875004,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",18.99,Dark gray,0938875,004,2022-09-29 18:07:25
+0938875007,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",39.99,Black,0938875,007,2022-09-29 18:07:25
+0938875008,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",39.99,Denim blue,0938875,008,2022-09-29 18:07:25
+0938875010,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",22.99,Light blue,0938875,010,2022-09-29 18:07:25
+0938875012,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",39.99,Denim blue,0938875,012,2022-09-29 18:07:25
+0938875013,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Tapered Jeans
+
+
+
+",21.99,Pale denim blue,0938875,013,2022-09-29 18:07:25
+0938875014,Slim fit,"Cotton 98%, Spandex 2%","
+
+Slim Tapered Jeans
+
+
+
+",29.99,Black,0938875,014,2022-09-29 18:07:25
+1004199002,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Cropped Jeans
+
+
+
+",29.99,Black,1004199,002,2022-09-29 18:07:25
+1004199003,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Cropped Jeans
+
+
+
+",14.99,Denim blue,1004199,003,2022-09-29 18:07:25
+1004199004,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Cropped Jeans
+
+
+
+",29.99,White,1004199,004,2022-09-29 18:07:25
+1004199005,Skinny fit,"Cotton 99%, Spandex 1%","
+
+Skinny Cropped Jeans
+
+
+
+",29.99,Light gray,1004199,005,2022-09-29 18:07:25
+1004199007,Skinny fit,"Cotton 98%, Spandex 2%","
+
+Skinny Cropped Jeans
+
+
+
+",29.99,Denim blue,1004199,007,2022-09-29 18:07:25
+0875105001,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",22.99,Denim blue,0875105,001,2022-09-29 18:07:25
+0875105002,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Black,0875105,002,2022-09-29 18:07:25
+0875105003,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Light denim blue,0875105,003,2022-09-29 18:07:25
+0875105009,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Dark denim blue,0875105,009,2022-09-29 18:07:25
+0875105011,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",22.99,Light denim blue,0875105,011,2022-09-29 18:07:25
+0875105015,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",22.99,Light denim blue,0875105,015,2022-09-29 18:07:25
+0875105016,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Denim blue,0875105,016,2022-09-29 18:07:25
+0875105017,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Dark denim blue,0875105,017,2022-09-29 18:07:25
+0875105018,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Pale denim blue,0875105,018,2022-09-29 18:07:25
+0875105023,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Black,0875105,023,2022-09-29 18:07:25
+0875105024,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Light denim blue,0875105,024,2022-09-29 18:07:25
+0875105026,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Light gray,0875105,026,2022-09-29 18:07:25
+0875105029,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Black,0875105,029,2022-09-29 18:07:25
+0811993001,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",12.99,Black/washed out,0811993,001,2022-09-29 18:07:25
+0811993002,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",29.99,Denim blue,0811993,002,2022-09-29 18:07:25
+0811993003,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",18.99,Dark denim blue,0811993,003,2022-09-29 18:07:25
+0811993006,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",14.99,Graphite gray,0811993,006,2022-09-29 18:07:25
+0811993007,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",22.99,Light denim blue,0811993,007,2022-09-29 18:07:25
+0811993021,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",20.99,Black,0811993,021,2022-09-29 18:07:25
+0811993022,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",16.99,Cream,0811993,022,2022-09-29 18:07:25
+0811993024,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",17.99,Denim blue,0811993,024,2022-09-29 18:07:25
+0811993025,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",15.99,Light blue,0811993,025,2022-09-29 18:07:25
+0811993028,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",19.99,Denim blue,0811993,028,2022-09-29 18:07:25
+0811993031,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",22.99,Dark denim blue,0811993,031,2022-09-29 18:07:25
+0811993034,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",29.99,Pale denim blue,0811993,034,2022-09-29 18:07:25
+0811993036,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",29.99,Blue,0811993,036,2022-09-29 18:07:25
+0811993037,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",15.99,Dark blue,0811993,037,2022-09-29 18:07:25
+0811993039,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",29.99,Dark denim blue,0811993,039,2022-09-29 18:07:25
+0811993040,Regular fit,"Cotton 98%, Spandex 2%","
+
+Regular Jeans
+
+
+
+",29.99,Black,0811993,040,2022-09-29 18:07:25
+0811993044,Regular fit,"Cotton 99%, Spandex 1%","
+
+Regular Jeans
+
+
+
+",29.99,Dark denim blue,0811993,044,2022-09-29 18:07:25
+1074475001,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Light denim blue,1074475,001,2022-09-29 18:07:25
+1074475002,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Denim blue,1074475,002,2022-09-29 18:07:25
+1074475003,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",39.99,Black,1074475,003,2022-09-29 18:07:25
+1051644001,Loose fit,"Lyocell 55%, Cotton 30%, Rayon 15%","
+
+Loose Jeans
+
+
+
+",44.99,Denim blue,1051644,001,2022-09-29 18:07:25
+0985197001,Slim fit,"Cotton 98%, Spandex 2%","
+
+Slim Jeans
+
+
+
+",19.99,Black,0985197,001,2022-09-29 18:07:25
+0985197002,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",6.99,Midnight blue,0985197,002,2022-09-29 18:07:25
+0985197003,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Denim blue,0985197,003,2022-09-29 18:07:25
+0985197004,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Dark denim blue,0985197,004,2022-09-29 18:07:25
+0985197005,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",15.99,Dark denim blue,0985197,005,2022-09-29 18:07:25
+0985197006,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",19.99,Light denim blue,0985197,006,2022-09-29 18:07:25
+0985197007,Slim fit,"Cotton 99%, Spandex 1%","
+
+Slim Jeans
+
+
+
+",15.99,Dark gray,0985197,007,2022-09-29 18:07:25
+0927964001,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",19.99,Denim blue,0927964,001,2022-09-29 18:07:25
+0927964002,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",19.99,Light denim blue,0927964,002,2022-09-29 18:07:25
+0927964003,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",19.99,Dark gray,0927964,003,2022-09-29 18:07:25
+0927964004,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",19.99,Steel blue,0927964,004,2022-09-29 18:07:25
+0927964005,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",10.99,White,0927964,005,2022-09-29 18:07:25
+0927964013,Regular fit,Cotton 100%,"
+
+Regular Tapered Crop Jeans
+
+
+
+",19.99,Black,0927964,013,2022-09-29 18:07:25
+1096385001,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",29.99,Black,1096385,001,2022-09-29 18:07:25
+1096385002,Loose fit,Cotton 100%,"
+
+Loose Jeans
+
+
+
+",29.99,Dark denim blue,1096385,002,2022-09-29 18:07:25
+1027852002,Relaxed fit,Cotton 100%,"
+
+Relaxed Denim Joggers
+
+
+
+",29.99,Dark gray,1027852,002,2022-09-29 18:07:25
+1027852006,Relaxed fit,Cotton 100%,"
+
+Relaxed Denim Joggers
+
+
+
+",29.99,Dark denim blue,1027852,006,2022-09-29 18:07:25
+1027852007,Relaxed fit,Cotton 100%,"
+
+Relaxed Denim Joggers
+
+
+
+",29.99,Denim blue,1027852,007,2022-09-29 18:07:25
+1027852009,Relaxed fit,Cotton 100%,"
+
+Relaxed Denim Joggers
+
+
+
+",29.99,Light denim blue,1027852,009,2022-09-29 18:07:25
+1044249001,Loose fit,"Rayon 50%, Lyocell 50%","
+
+Loose Pull-On Jeans
+
+
+
+",44.99,Light denim blue,1044249,001,2022-09-29 18:07:25
+1044249002,Loose fit,"Rayon 50%, Lyocell 50%","
+
+Loose Pull-On Jeans
+
+
+
+",44.99,Dark denim blue,1044249,002,2022-09-29 18:07:25
+1018704001,Relaxed fit,Cotton 100%,"
+
+Relaxed Pull-on Jeans
+
+
+
+",24.99,Light denim blue,1018704,001,2022-09-29 18:07:25
+1018704002,Relaxed fit,Cotton 100%,"
+
+Relaxed Pull-on Jeans
+
+
+
+",24.99,Denim blue,1018704,002,2022-09-29 18:07:25
+1018704003,Relaxed fit,Cotton 100%,"
+
+Relaxed Pull-on Jeans
+
+
+
+",24.99,Black,1018704,003,2022-09-29 18:07:25
+1025726002,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",11.99,Light denim blue,1025726,002,2022-09-29 18:07:25
+1025726003,Relaxed fit,Cotton 100%,"
+
+Relaxed Jeans
+
+
+
+",39.99,Graphite gray,1025726,003,2022-09-29 18:07:25
+1063141001,Loose fit,"Lyocell 55%, Cotton 30%, Rayon 15%","
+
+Loose Jeans
+
+
+
+",44.99,Denim blue,1063141,001,2022-09-29 18:07:25
